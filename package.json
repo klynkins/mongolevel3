@@ -1,0 +1,19 @@
+{
+  "name": "mongolevel3",
+  "version": "1.0.0",
+  "description": "mongo level 3",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klynkins/mongolevel3.git"
+  },
+  "author": "Katelynn Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klynkins/mongolevel3/issues"
+  },
+  "homepage": "https://github.com/klynkins/mongolevel3#readme"
+}

@@ -1,0 +1,14 @@
+db.monsters.insert({
+    "name": "werewolf",
+    "health": 65,
+    "last fought": new Date(2017, 20, 04),
+    "attacks": ["bite", "claw", "eat"],
+    "stats": {"attack": 8, "defense": 6}
+},
+{
+    "name": "vampire",
+    "health": 55,
+    "last fought": new Date(2017, 05, 01),
+    "attacks": ["bite", "suck", "drink"],
+    "stats": {"attack": 7, "defense": 5}
+})
